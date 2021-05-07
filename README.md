@@ -11,9 +11,30 @@ The repository contains 2 folders:
 
 If you use these datasets, please cite the following works (corresponding Bibtex entry is provided):
 
+- A. Moubayed, E. Aqeeli, and A. Shami, “Detecting DNS Typo-squatting Using Ensemble-based Feature Selection & Classification Models”, IEEE Canadian Journal of Electrical & Computer Engineering, 2021, doi: 10.1109/ICJECE.2021.3072008
+
+@ARTICLE{DNS_CJECE2021,
+
+author={Moubayed, Abdallah and Aqeeli, Emad and Shami, Abdallah}, 
+
+journal={IEEE Canadian Journal of Electrical \& Computer Engineering}, 
+
+title={Detecting DNS Typo-squatting Using Ensemble-based Feature Selection \& Classification Models}, 
+
+year={2021}, 
+
+volume={}, 
+
+number={}, 
+
+pages={1 - 11}, 
+ 
+doi={10.1109/ICJECE.2021.3072008}, 
+
+
 - A. Moubayed, E. Aqeeli and A. Shami, "Ensemble-based Feature Selection and Classification Model for DNS Typo-squatting Detection," 2020 IEEE Canadian Conference on Electrical and Computer Engineering (CCECE), 2020, pp. 1-6, doi: 10.1109/CCECE47787.2020.9255697.
 
-@INPROCEEDINGS{9255697,
+@INPROCEEDINGS{DNS_CCECE2020,
   
   author={Moubayed, Abdallah and Aqeeli, Emad and Shami, Abdallah},
   
@@ -29,7 +50,7 @@ If you use these datasets, please cite the following works (corresponding Bibtex
   
   - A. Moubayed, M. Injadat, A. Shami and H. Lutfiyya, "DNS Typo-Squatting Domain Detection: A Data Analytics & Machine Learning Based Approach," 2018 IEEE Global Communications Conference (GLOBECOM), 2018, pp. 1-7, doi: 10.1109/GLOCOM.2018.8647679.
 
-@INPROCEEDINGS{8647679,
+@INPROCEEDINGS{DNS_GLOBECOM2018,
   
   author={Moubayed, Abdallah and Injadat, MohammadNoor and Shami, Abdallah and Lutfiyya, Hanan},
   
