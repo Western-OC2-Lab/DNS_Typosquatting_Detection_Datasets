@@ -1,0 +1,6 @@
+This folder contains 4 files:
+
+- "unique_char_counter.m": Function that counts number of unique characters in the domain name.
+- "preprocessing_labeled_dataset.m": Code to generate the extracted labeled dataset
+- "preprocessing_unlabeled_dataset.m": Code to generate the extracted unlabeled dataset
+- "results_plotting.m": Code to plot the figures
