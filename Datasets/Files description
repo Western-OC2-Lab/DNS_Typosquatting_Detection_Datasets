@@ -1,0 +1,6 @@
+This folder contains 4 files:
+
+- "1_Raw_Domain_Dataset_labeled.csv": The raw labeled domain dataset with its class (legit or DGA).
+- "2_Extracted_features_dataset_labeled.csv": The extracted labeled domain dataset with its class (legit or DGA).
+- "3_Raw_Domain_Dataset_Unlabeled.csv": The raw unlabeled domain dataset.
+- "4_Extracted_features_dataset_unlabeled.csv": The extracted unlabeled domain dataset.
